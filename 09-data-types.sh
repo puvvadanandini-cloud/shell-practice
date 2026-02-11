@@ -8,3 +8,5 @@ echo "sum is : ${SUM}"
 #size=4,max index=3
 LEADERS=("Modi" "Putin" "Trudo" "Trump")
 echo "All leaders:${LEADERS[@]}"
+echo "First Leader:${LEADERS[0]}"
+echo "First Leader:${LEADERS[10]}"
